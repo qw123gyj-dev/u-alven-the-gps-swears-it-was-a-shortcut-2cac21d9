@@ -8,9 +8,9 @@ A deterministic entry picker for the make.fun bounty "The GPS Swears It Was a Sh
 
 The winning line:
 
-> The map said that lake was a shortcut, so I did my job perfectly — you are the one who brought a car to a swim.
+> The map said the shortcut was real, and I did my job perfectly — through a cornfield, a fence, and one very surprised goat.
 
-It blames the map, insists the job was done perfectly, and lands the punchline — the car, not the route, is the problem — in the final words.
+It blames the map, insists the job was done perfectly, and lands the punchline — the "shortcut" ran through a cornfield, a fence, and one very surprised goat — in the final words.
 
 ## Run
 
