@@ -127,8 +127,8 @@ const CANDIDATES: Candidate[] = [
     text: "The shortcut was real; it just ended at a wedding, and the bride has already forgiven me, so you should too.",
   },
   {
-    id: "recalculating-duet",
-    text: "Recalculating. Recalculating. Fine \u2014 the map and I have agreed to blame each other forever.",
+    id: "shortcut-was-real",
+    text: "The map said the shortcut was real, and I did my job perfectly \u2014 through a cornfield, a fence, and one very surprised goat.",
   },
 ];
 
